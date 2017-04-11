@@ -27,7 +27,7 @@ Zero state is stored anywhere, no registry keys or configuration files.
 
 Change any of the parameters, compile, then install.
 
-A binary is available [here](https://github.com/taviso/hotcorner/releases) if you prefer.
+A binary is available [here](https://github.com/pavanlimo/hotcorner/releases) if you prefer.
 
 ### Building
 
@@ -66,15 +66,10 @@ All configuration requires modifying the parameters in `hotcorner.c` and recompi
 
 GPL3
 
-## Authors
-
-* Tavis Ormandy [@taviso](https://github.com/taviso/) - Original Author
-* Ahmed Samy [@asamy](https://github.com/asamy) - HotKey support
-
 ## FAQ
 
 * Q: I don't want to compile it, can't you just give me an exe? :(
-* A: Checkout the releases, [here](https://github.com/taviso/hotcorner/releases).
+* A: Checkout the releases, [here](https://github.com/pavanlimo/hotcorner/releases).
 
 
 * Q: Can you change a setting, and then compile it for me?
